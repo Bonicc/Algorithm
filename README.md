@@ -1,3 +1,3 @@
-## README
+## Python Code for Algorithms
 
-My First Commit
+This is a repository for Algorithms
