@@ -1,4 +1,5 @@
 # FormingMacgicSquare
+# https://www.hackerrank.com/challenges/magic-square-forming/problem
 
 import math
 import os

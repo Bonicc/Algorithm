@@ -1,4 +1,6 @@
 # ClimingtheLeaderboard
+# https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem
+# Sort, Insertion Sort
 
 import math
 import os
