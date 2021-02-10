@@ -1,6 +1,6 @@
 #!/bin/python3
 # https://www.hackerrank.com/challenges/countingsort4/problem
-# Sort, Array, Counting Sort
+# Sort
 
 import math
 import os
