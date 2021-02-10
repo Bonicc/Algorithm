@@ -3,7 +3,7 @@
 This is a repository for Algorithms problem 
 
 |Problem|Website|Difficulty|Type|Remarks|
-|---|---|---|---|---|---|
+|---|---|---|---|---|
 |[**Extra Long Factorials**](https://www.hackerrank.com/challenges/extra-long-factorials/problem)|Hackerrank|Medium|BigInteger||
 |[**Roads and Libraries**](https://www.hackerrank.com/challenges/torque-and-development/problem)|Hackerrank|Medium|DFS||
 |[**Fibonachi Modified**](https://www.hackerrank.com/challenges/fibonacci-modified/problem)|Hackerrank|Medium|DP||
@@ -16,4 +16,3 @@ This is a repository for Algorithms problem
 |[**The Full Counting Sort**](https://www.hackerrank.com/challenges/countingsort4/problem)|Hackerrank|Medium|Sorting||
 |[**완주하지 못한 선수**](https://programmers.co.kr/learn/courses/30/lessons/42576)|Programmers|Level1|Hash||
 |[**H-Index**](https://programmers.co.kr/learn/courses/30/lessons/42747#)|Programmers|Level2|Sorting||
-|[****]()|||||
