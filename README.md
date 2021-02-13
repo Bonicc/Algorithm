@@ -17,5 +17,7 @@ This is a repository for Algorithms problem
 |[**완주하지 못한 선수**](https://programmers.co.kr/learn/courses/30/lessons/42576)|Programmers|Level1|Hash||
 |[**전화번호 목록**](https://programmers.co.kr/learn/courses/30/lessons/42577)|Programmers|Level2|Hash||
 |[**위장**](https://programmers.co.kr/learn/courses/30/lessons/42578)|Programmers|Level2|Hash||
+|[**베스트 앨범**](https://programmers.co.kr/learn/courses/30/lessons/42579)|Programmers|Level3|Hash||
 |[**H-Index**](https://programmers.co.kr/learn/courses/30/lessons/42747#)|Programmers|Level2|Sorting||
+|[**주식가격**](https://programmers.co.kr/learn/courses/30/lessons/42584#)|Programmers|Level2|Stack/Queue||
 |[****]()|||||
