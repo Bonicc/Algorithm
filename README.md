@@ -18,7 +18,10 @@ This is a repository for Algorithms problem
 |[**전화번호 목록**](https://programmers.co.kr/learn/courses/30/lessons/42577)|Programmers|Level2|Hash||
 |[**위장**](https://programmers.co.kr/learn/courses/30/lessons/42578)|Programmers|Level2|Hash||
 |[**베스트 앨범**](https://programmers.co.kr/learn/courses/30/lessons/42579)|Programmers|Level3|Hash||
+|[**더 맵게**](https://programmers.co.kr/learn/courses/30/lessons/42626?language=python3#)|Programmers|Level2|Heap||
+|[**K번째수**](https://programmers.co.kr/learn/courses/30/lessons/42748)|Programmers|Level1|Sorting||
 |[**H-Index**](https://programmers.co.kr/learn/courses/30/lessons/42747#)|Programmers|Level2|Sorting||
+|[**가장 큰 수**](https://programmers.co.kr/learn/courses/30/lessons/42746)|Programmers|Level2|Sorting||
 |[**주식가격**](https://programmers.co.kr/learn/courses/30/lessons/42584#)|Programmers|Level2|Stack/Queue||
 |[**기능개발**](https://programmers.co.kr/learn/courses/30/lessons/42586)|Programmers|Level2|Stack/Queue||
 |[****]()|||||
