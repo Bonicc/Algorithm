@@ -15,6 +15,9 @@ This is a repository for Algorithms problem
 |[**Lily's Homework**](https://www.hackerrank.com/challenges/lilys-homework/problem)|Hackerrank|Medium|Sorting||
 |[**The Full Counting Sort**](https://www.hackerrank.com/challenges/countingsort4/problem)|Hackerrank|Medium|Sorting||
 |[**모의고사**](https://programmers.co.kr/learn/courses/30/lessons/42840)|Programmers|Level1|Exhaustive Search||
+|[**소수 찾기**](https://programmers.co.kr/learn/courses/30/lessons/42839)|Programmers|Level2|Exhaustive Search||
+|[**카펫**](https://programmers.co.kr/learn/courses/30/lessons/42842)|Programmers|Level2|Exhaustive Search||
+|[**체육복**](https://programmers.co.kr/learn/courses/30/lessons/42862#)|Programmers|Level1|Greedy||
 |[**완주하지 못한 선수**](https://programmers.co.kr/learn/courses/30/lessons/42576)|Programmers|Level1|Hash||
 |[**전화번호 목록**](https://programmers.co.kr/learn/courses/30/lessons/42577)|Programmers|Level2|Hash||
 |[**위장**](https://programmers.co.kr/learn/courses/30/lessons/42578)|Programmers|Level2|Hash||
@@ -26,4 +29,5 @@ This is a repository for Algorithms problem
 |[**가장 큰 수**](https://programmers.co.kr/learn/courses/30/lessons/42746)|Programmers|Level2|Sorting||
 |[**주식가격**](https://programmers.co.kr/learn/courses/30/lessons/42584#)|Programmers|Level2|Stack/Queue||
 |[**기능개발**](https://programmers.co.kr/learn/courses/30/lessons/42586)|Programmers|Level2|Stack/Queue||
+|[**프린터**](https://programmers.co.kr/learn/courses/30/lessons/42587#)|Programmers|Level2|Stack/Queue||
 |[****]()|||||
