@@ -18,6 +18,7 @@ This is a repository for Algorithms problem
 |[**소수 찾기**](https://programmers.co.kr/learn/courses/30/lessons/42839)|Programmers|Level2|Exhaustive Search||
 |[**카펫**](https://programmers.co.kr/learn/courses/30/lessons/42842)|Programmers|Level2|Exhaustive Search||
 |[**체육복**](https://programmers.co.kr/learn/courses/30/lessons/42862#)|Programmers|Level1|Greedy||
+|[**조이스틱**](https://programmers.co.kr/learn/courses/30/lessons/42860#)|Programmers|Level2|Greedy||
 |[**완주하지 못한 선수**](https://programmers.co.kr/learn/courses/30/lessons/42576)|Programmers|Level1|Hash||
 |[**전화번호 목록**](https://programmers.co.kr/learn/courses/30/lessons/42577)|Programmers|Level2|Hash||
 |[**위장**](https://programmers.co.kr/learn/courses/30/lessons/42578)|Programmers|Level2|Hash||
