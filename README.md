@@ -4,6 +4,7 @@ This is a repository for Algorithms problem
 
 |Problem|Website|Difficulty|Type|Remarks|
 |---|---|---|---|---|
+|[**Lights out**](https://www.hackerrank.com/challenges/lightsout/problem)|Hackerrank|Easy|AI/games|42.71 point|
 |[**Extra Long Factorials**](https://www.hackerrank.com/challenges/extra-long-factorials/problem)|Hackerrank|Medium|BigInteger||
 |[**Roads and Libraries**](https://www.hackerrank.com/challenges/torque-and-development/problem)|Hackerrank|Medium|DFS||
 |[**Fibonachi Modified**](https://www.hackerrank.com/challenges/fibonacci-modified/problem)|Hackerrank|Medium|DP||
@@ -14,11 +15,14 @@ This is a repository for Algorithms problem
 |[**Climbing the Leaderboard**](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem)|Hackerrank|Medium|Sorting||
 |[**Lily's Homework**](https://www.hackerrank.com/challenges/lilys-homework/problem)|Hackerrank|Medium|Sorting||
 |[**The Full Counting Sort**](https://www.hackerrank.com/challenges/countingsort4/problem)|Hackerrank|Medium|Sorting||
+|[**정수 삼각형**](https://programmers.co.kr/learn/courses/30/lessons/43105)|Programmers|Level2|DP||
+|[**등굣길**](https://programmers.co.kr/learn/courses/30/lessons/42898#)|Programmers|Level2|DP||
 |[**모의고사**](https://programmers.co.kr/learn/courses/30/lessons/42840)|Programmers|Level1|Exhaustive Search||
 |[**소수 찾기**](https://programmers.co.kr/learn/courses/30/lessons/42839)|Programmers|Level2|Exhaustive Search||
 |[**카펫**](https://programmers.co.kr/learn/courses/30/lessons/42842)|Programmers|Level2|Exhaustive Search||
 |[**체육복**](https://programmers.co.kr/learn/courses/30/lessons/42862#)|Programmers|Level1|Greedy||
 |[**조이스틱**](https://programmers.co.kr/learn/courses/30/lessons/42860#)|Programmers|Level2|Greedy||
+|[**큰 수 만들기**](https://programmers.co.kr/learn/courses/30/lessons/42883#)|Programmers|Level2|Greedy||
 |[**완주하지 못한 선수**](https://programmers.co.kr/learn/courses/30/lessons/42576)|Programmers|Level1|Hash||
 |[**전화번호 목록**](https://programmers.co.kr/learn/courses/30/lessons/42577)|Programmers|Level2|Hash||
 |[**위장**](https://programmers.co.kr/learn/courses/30/lessons/42578)|Programmers|Level2|Hash||
