@@ -10,6 +10,7 @@ This is a repository for Algorithms problem
 |[**Fibonachi Modified**](https://www.hackerrank.com/challenges/fibonacci-modified/problem)|Hackerrank|Medium|DP||
 |[**Sherlock and Cost**](https://www.hackerrank.com/challenges/sherlock-and-cost/problem)|Hackerrank|Medium|DP||
 |[**The Coin Change Problem**](https://www.hackerrank.com/challenges/coin-change/problem)|Hackerrank|Medium|DP||
+|[**Non-Divisible Subset**](https://www.hackerrank.com/challenges/non-divisible-subset/problem)|Hackerrank|Medium|Math||
 |[**The Power Sum**](https://www.hackerrank.com/challenges/the-power-sum/problem)|Hackerrank|Medium|Recursive||
 |[**Hackerland Radio Transmitters**](https://www.hackerrank.com/challenges/hackerland-radio-transmitters/problem)|Hackerrank|Medium|Search||
 |[**Climbing the Leaderboard**](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem)|Hackerrank|Medium|Sorting||
@@ -17,6 +18,7 @@ This is a repository for Algorithms problem
 |[**The Full Counting Sort**](https://www.hackerrank.com/challenges/countingsort4/problem)|Hackerrank|Medium|Sorting||
 |[**정수 삼각형**](https://programmers.co.kr/learn/courses/30/lessons/43105)|Programmers|Level2|DP||
 |[**등굣길**](https://programmers.co.kr/learn/courses/30/lessons/42898#)|Programmers|Level2|DP||
+|[**도둑질**](https://programmers.co.kr/learn/courses/30/lessons/42897)|Programmers|Level2|DP||
 |[**모의고사**](https://programmers.co.kr/learn/courses/30/lessons/42840)|Programmers|Level1|Exhaustive Search||
 |[**소수 찾기**](https://programmers.co.kr/learn/courses/30/lessons/42839)|Programmers|Level2|Exhaustive Search||
 |[**카펫**](https://programmers.co.kr/learn/courses/30/lessons/42842)|Programmers|Level2|Exhaustive Search||
