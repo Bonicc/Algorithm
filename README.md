@@ -19,6 +19,7 @@ This is a repository for Algorithms problem
 |[**타겟 넘버**](https://programmers.co.kr/learn/courses/30/lessons/43165)|Programmers|Level2|DFS/BFS||
 |[**네트워크**](https://programmers.co.kr/learn/courses/30/lessons/43162)|Programmers|Level3|DFS/BFS||
 |[**단어 변환**](https://programmers.co.kr/learn/courses/30/lessons/43163)|Programmers|Level3|DFS/BFS||
+|[**가장 먼 노드 **](https://programmers.co.kr/learn/courses/30/lessons/49189)|Programmers|Level3|DFS/BFS||
 |[**정수 삼각형**](https://programmers.co.kr/learn/courses/30/lessons/43105)|Programmers|Level3|DP||
 |[**등굣길**](https://programmers.co.kr/learn/courses/30/lessons/42898#)|Programmers|Level3|DP||
 |[**도둑질**](https://programmers.co.kr/learn/courses/30/lessons/42897)|Programmers|Level4|DP||
@@ -40,6 +41,7 @@ This is a repository for Algorithms problem
 |[**K번째수**](https://programmers.co.kr/learn/courses/30/lessons/42748)|Programmers|Level1|Sorting||
 |[**H-Index**](https://programmers.co.kr/learn/courses/30/lessons/42747#)|Programmers|Level2|Sorting||
 |[**가장 큰 수**](https://programmers.co.kr/learn/courses/30/lessons/42746)|Programmers|Level2|Sorting||
+|[**크레인 인형뽑기 게임**](https://programmers.co.kr/learn/courses/30/lessons/64061?language=python3)|Programmers|Level1|Stack/Queue||
 |[**주식가격**](https://programmers.co.kr/learn/courses/30/lessons/42584#)|Programmers|Level2|Stack/Queue||
 |[**기능개발**](https://programmers.co.kr/learn/courses/30/lessons/42586)|Programmers|Level2|Stack/Queue||
 |[**프린터**](https://programmers.co.kr/learn/courses/30/lessons/42587#)|Programmers|Level2|Stack/Queue||
