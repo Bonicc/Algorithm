@@ -22,6 +22,7 @@ This is a repository for Algorithms problem
 |[**가장 먼 노드 **](https://programmers.co.kr/learn/courses/30/lessons/49189)|Programmers|Level3|DFS/BFS||
 |[**정수 삼각형**](https://programmers.co.kr/learn/courses/30/lessons/43105)|Programmers|Level3|DP||
 |[**등굣길**](https://programmers.co.kr/learn/courses/30/lessons/42898#)|Programmers|Level3|DP||
+|[**순위**](https://programmers.co.kr/learn/courses/30/lessons/49191#qna)|Programmers|Level3|DP, Graph||
 |[**도둑질**](https://programmers.co.kr/learn/courses/30/lessons/42897)|Programmers|Level4|DP||
 |[**모의고사**](https://programmers.co.kr/learn/courses/30/lessons/42840)|Programmers|Level1|Exhaustive Search||
 |[**소수 찾기**](https://programmers.co.kr/learn/courses/30/lessons/42839)|Programmers|Level2|Exhaustive Search||
