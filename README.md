@@ -44,6 +44,7 @@ This is a repository for Algorithms problem
 |[**가장 큰 수**](https://programmers.co.kr/learn/courses/30/lessons/42746)|Programmers|Level2|Sorting||
 |[**크레인 인형뽑기 게임**](https://programmers.co.kr/learn/courses/30/lessons/64061?language=python3)|Programmers|Level1|Stack/Queue||
 |[**주식가격**](https://programmers.co.kr/learn/courses/30/lessons/42584#)|Programmers|Level2|Stack/Queue||
+|[**다리를 지나는 트럭**](https://programmers.co.kr/learn/courses/30/lessons/42583)|Programmers|Level2|Stack/Queue||
 |[**기능개발**](https://programmers.co.kr/learn/courses/30/lessons/42586)|Programmers|Level2|Stack/Queue||
 |[**프린터**](https://programmers.co.kr/learn/courses/30/lessons/42587#)|Programmers|Level2|Stack/Queue||
 |[****]()|||||
