@@ -37,6 +37,7 @@ This is a repository for Algorithms problem
 |[**전화번호 목록**](https://programmers.co.kr/learn/courses/30/lessons/42577)|Programmers|Level2|Hash||
 |[**위장**](https://programmers.co.kr/learn/courses/30/lessons/42578)|Programmers|Level2|Hash||
 |[**베스트 앨범**](https://programmers.co.kr/learn/courses/30/lessons/42579)|Programmers|Level3|Hash||
+|[**방의 개수**](https://programmers.co.kr/learn/courses/30/lessons/49190#)|Programmers|Level5|Hash, Graph||
 |[**더 맵게**](https://programmers.co.kr/learn/courses/30/lessons/42626?language=python3#)|Programmers|Level2|Heap||
 |[**이중우선순위 큐**](https://programmers.co.kr/learn/courses/30/lessons/42628)|Programmers|Level3|heap||
 |[**K번째수**](https://programmers.co.kr/learn/courses/30/lessons/42748)|Programmers|Level1|Sorting||
