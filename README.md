@@ -42,6 +42,7 @@ This is a repository for Algorithms problem
 |[**K번째수**](https://programmers.co.kr/learn/courses/30/lessons/42748)|Programmers|Level1|Sorting||
 |[**H-Index**](https://programmers.co.kr/learn/courses/30/lessons/42747#)|Programmers|Level2|Sorting||
 |[**가장 큰 수**](https://programmers.co.kr/learn/courses/30/lessons/42746)|Programmers|Level2|Sorting||
+|[**무지의 먹방 라이브**](https://programmers.co.kr/learn/courses/30/lessons/42891#)|Programmers|Level4|Sorting,Hash||
 |[**크레인 인형뽑기 게임**](https://programmers.co.kr/learn/courses/30/lessons/64061?language=python3)|Programmers|Level1|Stack/Queue||
 |[**주식가격**](https://programmers.co.kr/learn/courses/30/lessons/42584#)|Programmers|Level2|Stack/Queue||
 |[**다리를 지나는 트럭**](https://programmers.co.kr/learn/courses/30/lessons/42583)|Programmers|Level2|Stack/Queue||
