@@ -19,14 +19,15 @@ This is a repository for Algorithms problem
 |[**타겟 넘버**](https://programmers.co.kr/learn/courses/30/lessons/43165)|Programmers|Level2|DFS/BFS||
 |[**네트워크**](https://programmers.co.kr/learn/courses/30/lessons/43162)|Programmers|Level3|DFS/BFS||
 |[**단어 변환**](https://programmers.co.kr/learn/courses/30/lessons/43163)|Programmers|Level3|DFS/BFS||
-|[**가장 먼 노드 **](https://programmers.co.kr/learn/courses/30/lessons/49189)|Programmers|Level3|DFS/BFS||
 |[**정수 삼각형**](https://programmers.co.kr/learn/courses/30/lessons/43105)|Programmers|Level3|DP||
 |[**등굣길**](https://programmers.co.kr/learn/courses/30/lessons/42898#)|Programmers|Level3|DP||
-|[**순위**](https://programmers.co.kr/learn/courses/30/lessons/49191#qna)|Programmers|Level3|DP, Graph||
 |[**도둑질**](https://programmers.co.kr/learn/courses/30/lessons/42897)|Programmers|Level4|DP||
 |[**모의고사**](https://programmers.co.kr/learn/courses/30/lessons/42840)|Programmers|Level1|Exhaustive Search||
 |[**소수 찾기**](https://programmers.co.kr/learn/courses/30/lessons/42839)|Programmers|Level2|Exhaustive Search||
 |[**카펫**](https://programmers.co.kr/learn/courses/30/lessons/42842)|Programmers|Level2|Exhaustive Search||
+|[**가장 먼 노드 **](https://programmers.co.kr/learn/courses/30/lessons/49189)|Programmers|Level3|Graph, DFS/BFS||
+|[**순위**](https://programmers.co.kr/learn/courses/30/lessons/49191#qna)|Programmers|Level3|Graph, DP||
+|[**방의 개수**](https://programmers.co.kr/learn/courses/30/lessons/49190#)|Programmers|Level5|Graph, Hash||
 |[**체육복**](https://programmers.co.kr/learn/courses/30/lessons/42862#)|Programmers|Level1|Greedy||
 |[**조이스틱**](https://programmers.co.kr/learn/courses/30/lessons/42860#)|Programmers|Level2|Greedy||
 |[**큰 수 만들기**](https://programmers.co.kr/learn/courses/30/lessons/42883#)|Programmers|Level2|Greedy||
@@ -37,8 +38,8 @@ This is a repository for Algorithms problem
 |[**전화번호 목록**](https://programmers.co.kr/learn/courses/30/lessons/42577)|Programmers|Level2|Hash||
 |[**위장**](https://programmers.co.kr/learn/courses/30/lessons/42578)|Programmers|Level2|Hash||
 |[**베스트 앨범**](https://programmers.co.kr/learn/courses/30/lessons/42579)|Programmers|Level3|Hash||
-|[**방의 개수**](https://programmers.co.kr/learn/courses/30/lessons/49190#)|Programmers|Level5|Hash, Graph||
 |[**더 맵게**](https://programmers.co.kr/learn/courses/30/lessons/42626?language=python3#)|Programmers|Level2|Heap||
+|[**디스크 컨트롤러**](https://programmers.co.kr/learn/courses/30/lessons/42627)|Programmers|Level3|heap||
 |[**이중우선순위 큐**](https://programmers.co.kr/learn/courses/30/lessons/42628)|Programmers|Level3|heap||
 |[**K번째수**](https://programmers.co.kr/learn/courses/30/lessons/42748)|Programmers|Level1|Sorting||
 |[**H-Index**](https://programmers.co.kr/learn/courses/30/lessons/42747#)|Programmers|Level2|Sorting||
