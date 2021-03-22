@@ -19,13 +19,16 @@ This is a repository for Algorithms problem
 |[**타겟 넘버**](https://programmers.co.kr/learn/courses/30/lessons/43165)|Programmers|Level2|DFS/BFS||
 |[**네트워크**](https://programmers.co.kr/learn/courses/30/lessons/43162)|Programmers|Level3|DFS/BFS||
 |[**단어 변환**](https://programmers.co.kr/learn/courses/30/lessons/43163)|Programmers|Level3|DFS/BFS||
+|[**N으로 표현**](https://programmers.co.kr/learn/courses/30/lessons/42895)|Programmers|Level3|DP||
 |[**정수 삼각형**](https://programmers.co.kr/learn/courses/30/lessons/43105)|Programmers|Level3|DP||
 |[**등굣길**](https://programmers.co.kr/learn/courses/30/lessons/42898#)|Programmers|Level3|DP||
+|[**2 x n 타일링**](https://programmers.co.kr/learn/courses/30/lessons/12900#)|Programmers|Level3|DP||
+|[**3 x n 타일링**](https://programmers.co.kr/learn/courses/30/lessons/12902)|Programmers|Level4|DP||
 |[**도둑질**](https://programmers.co.kr/learn/courses/30/lessons/42897)|Programmers|Level4|DP||
 |[**모의고사**](https://programmers.co.kr/learn/courses/30/lessons/42840)|Programmers|Level1|Exhaustive Search||
 |[**소수 찾기**](https://programmers.co.kr/learn/courses/30/lessons/42839)|Programmers|Level2|Exhaustive Search||
 |[**카펫**](https://programmers.co.kr/learn/courses/30/lessons/42842)|Programmers|Level2|Exhaustive Search||
-|[**가장 먼 노드 **](https://programmers.co.kr/learn/courses/30/lessons/49189)|Programmers|Level3|Graph, DFS/BFS||
+|[**가장 먼 노드**](https://programmers.co.kr/learn/courses/30/lessons/49189)|Programmers|Level3|Graph, DFS/BFS||
 |[**순위**](https://programmers.co.kr/learn/courses/30/lessons/49191#qna)|Programmers|Level3|Graph, DP||
 |[**방의 개수**](https://programmers.co.kr/learn/courses/30/lessons/49190#)|Programmers|Level5|Graph, Hash||
 |[**체육복**](https://programmers.co.kr/learn/courses/30/lessons/42862#)|Programmers|Level1|Greedy||
