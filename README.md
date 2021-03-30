@@ -1,4 +1,4 @@
-# Python Code for Algorithms 
+# Algorithm
 
 This is a repository for Algorithms problem 
 
@@ -31,7 +31,7 @@ This is a repository for Algorithms problem
 |[**가장 먼 노드**](https://programmers.co.kr/learn/courses/30/lessons/49189)|Programmers|Level3|Graph, DFS/BFS||
 |[**순위**](https://programmers.co.kr/learn/courses/30/lessons/49191#qna)|Programmers|Level3|Graph, DP||
 |[**방의 개수**](https://programmers.co.kr/learn/courses/30/lessons/49190#)|Programmers|Level5|Graph, Hash||
-|[**체육복**](https://programmers.co.kr/learn/courses/30/lessons/42862#)|Programmers|Level1|Greedy||
+|[**체육복**](https://programmers.co.kr/learn/courses/30/lessons/42862#)|Programmers|Level1|Greedy|Python, C++|
 |[**조이스틱**](https://programmers.co.kr/learn/courses/30/lessons/42860#)|Programmers|Level2|Greedy||
 |[**큰 수 만들기**](https://programmers.co.kr/learn/courses/30/lessons/42883#)|Programmers|Level2|Greedy||
 |[**구명 보트**](https://programmers.co.kr/learn/courses/30/lessons/42885)|Programmers|Level2|Greedy||
