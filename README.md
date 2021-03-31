@@ -1,6 +1,6 @@
-# Algorithm
+# Algorithm Code
 
-This is a repository for Algorithms problem 
+This is a solution repository for Algorithms problem
 
 |Problem|Website|Difficulty|Type|Remarks|
 |---|---|---|---|---|
@@ -37,18 +37,18 @@ This is a repository for Algorithms problem
 |[**구명 보트**](https://programmers.co.kr/learn/courses/30/lessons/42885)|Programmers|Level2|Greedy||
 |[**섬 연결하기**](https://programmers.co.kr/learn/courses/30/lessons/42861)|Programmers|Level3|Greedy||
 |[**단속 카메라**](https://programmers.co.kr/learn/courses/30/lessons/42884)|Programmers|Level3|Greedy||
-|[**완주하지 못한 선수**](https://programmers.co.kr/learn/courses/30/lessons/42576)|Programmers|Level1|Hash||
+|[**완주하지 못한 선수**](https://programmers.co.kr/learn/courses/30/lessons/42576)|Programmers|Level1|Hash|Python, C++|
 |[**전화번호 목록**](https://programmers.co.kr/learn/courses/30/lessons/42577)|Programmers|Level2|Hash||
 |[**위장**](https://programmers.co.kr/learn/courses/30/lessons/42578)|Programmers|Level2|Hash||
 |[**베스트 앨범**](https://programmers.co.kr/learn/courses/30/lessons/42579)|Programmers|Level3|Hash||
-|[**더 맵게**](https://programmers.co.kr/learn/courses/30/lessons/42626?language=python3#)|Programmers|Level2|Heap||
+|[**더 맵게**](https://programmers.co.kr/learn/courses/30/lessons/42626)|Programmers|Level2|Heap|Python, C++|
 |[**디스크 컨트롤러**](https://programmers.co.kr/learn/courses/30/lessons/42627)|Programmers|Level3|heap||
 |[**이중우선순위 큐**](https://programmers.co.kr/learn/courses/30/lessons/42628)|Programmers|Level3|heap||
 |[**K번째수**](https://programmers.co.kr/learn/courses/30/lessons/42748)|Programmers|Level1|Sorting||
-|[**H-Index**](https://programmers.co.kr/learn/courses/30/lessons/42747#)|Programmers|Level2|Sorting||
+|[**H-Index**](https://programmers.co.kr/learn/courses/30/lessons/42747#)|Programmers|Level2|Sorting|Python, C++|
 |[**가장 큰 수**](https://programmers.co.kr/learn/courses/30/lessons/42746)|Programmers|Level2|Sorting||
 |[**무지의 먹방 라이브**](https://programmers.co.kr/learn/courses/30/lessons/42891#)|Programmers|Level4|Sorting,Hash||
-|[**크레인 인형뽑기 게임**](https://programmers.co.kr/learn/courses/30/lessons/64061?language=python3)|Programmers|Level1|Stack/Queue||
+|[**크레인 인형뽑기 게임**](https://programmers.co.kr/learn/courses/30/lessons/64061)|Programmers|Level1|Stack/Queue||
 |[**주식가격**](https://programmers.co.kr/learn/courses/30/lessons/42584#)|Programmers|Level2|Stack/Queue||
 |[**다리를 지나는 트럭**](https://programmers.co.kr/learn/courses/30/lessons/42583)|Programmers|Level2|Stack/Queue||
 |[**기능개발**](https://programmers.co.kr/learn/courses/30/lessons/42586)|Programmers|Level2|Stack/Queue||
