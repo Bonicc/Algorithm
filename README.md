@@ -21,7 +21,7 @@ This is a solution repository for Algorithms problem
 |[**단어 변환**](https://programmers.co.kr/learn/courses/30/lessons/43163)|Programmers|Level3|DFS/BFS||
 |[**N으로 표현**](https://programmers.co.kr/learn/courses/30/lessons/42895)|Programmers|Level3|DP|Python, C++|
 |[**정수 삼각형**](https://programmers.co.kr/learn/courses/30/lessons/43105)|Programmers|Level3|DP||
-|[**등굣길**](https://programmers.co.kr/learn/courses/30/lessons/42898#)|Programmers|Level3|DP||
+|[**등굣길**](https://programmers.co.kr/learn/courses/30/lessons/42898#)|Programmers|Level3|DP|Python, C++|
 |[**2 x n 타일링**](https://programmers.co.kr/learn/courses/30/lessons/12900#)|Programmers|Level3|DP||
 |[**3 x n 타일링**](https://programmers.co.kr/learn/courses/30/lessons/12902)|Programmers|Level4|DP||
 |[**도둑질**](https://programmers.co.kr/learn/courses/30/lessons/42897)|Programmers|Level4|DP||
