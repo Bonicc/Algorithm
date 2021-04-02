@@ -16,6 +16,7 @@ This is a solution repository for Algorithms problem
 |[**Climbing the Leaderboard**](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem)|Hackerrank|Medium|Sorting||
 |[**Lily's Homework**](https://www.hackerrank.com/challenges/lilys-homework/problem)|Hackerrank|Medium|Sorting||
 |[**The Full Counting Sort**](https://www.hackerrank.com/challenges/countingsort4/problem)|Hackerrank|Medium|Sorting||
+|[**입국심사**](https://programmers.co.kr/learn/courses/30/lessons/43238)|Programmers|Level3|Binary Search||
 |[**타겟 넘버**](https://programmers.co.kr/learn/courses/30/lessons/43165)|Programmers|Level2|DFS/BFS||
 |[**네트워크**](https://programmers.co.kr/learn/courses/30/lessons/43162)|Programmers|Level3|DFS/BFS||
 |[**단어 변환**](https://programmers.co.kr/learn/courses/30/lessons/43163)|Programmers|Level3|DFS/BFS||
