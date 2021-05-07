@@ -16,6 +16,7 @@ This is a solution repository for Algorithms problem
 |[**Climbing the Leaderboard**](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem)|Hackerrank|Medium|Sorting||
 |[**Lily's Homework**](https://www.hackerrank.com/challenges/lilys-homework/problem)|Hackerrank|Medium|Sorting||
 |[**The Full Counting Sort**](https://www.hackerrank.com/challenges/countingsort4/problem)|Hackerrank|Medium|Sorting||
+|[**순위 검색**](https://programmers.co.kr/learn/courses/30/lessons/72412#)|Programmers|Level2|Binary Search||
 |[**입국심사**](https://programmers.co.kr/learn/courses/30/lessons/43238)|Programmers|Level3|Binary Search||
 |[**타겟 넘버**](https://programmers.co.kr/learn/courses/30/lessons/43165)|Programmers|Level2|DFS/BFS||
 |[**네트워크**](https://programmers.co.kr/learn/courses/30/lessons/43162)|Programmers|Level3|DFS/BFS||
@@ -30,6 +31,7 @@ This is a solution repository for Algorithms problem
 |[**소수 찾기**](https://programmers.co.kr/learn/courses/30/lessons/42839)|Programmers|Level2|Exhaustive Search||
 |[**카펫**](https://programmers.co.kr/learn/courses/30/lessons/42842)|Programmers|Level2|Exhaustive Search||
 |[**가장 먼 노드**](https://programmers.co.kr/learn/courses/30/lessons/49189)|Programmers|Level3|Graph, DFS/BFS||
+|[**합승 택시 요금**](https://programmers.co.kr/learn/courses/30/lessons/72413)|Programmers|Level3|Graph||
 |[**순위**](https://programmers.co.kr/learn/courses/30/lessons/49191#qna)|Programmers|Level3|Graph, DP||
 |[**방의 개수**](https://programmers.co.kr/learn/courses/30/lessons/49190#)|Programmers|Level5|Graph, Hash||
 |[**체육복**](https://programmers.co.kr/learn/courses/30/lessons/42862#)|Programmers|Level1|Greedy|Python, C++|
@@ -41,6 +43,7 @@ This is a solution repository for Algorithms problem
 |[**완주하지 못한 선수**](https://programmers.co.kr/learn/courses/30/lessons/42576)|Programmers|Level1|Hash|Python, C++|
 |[**전화번호 목록**](https://programmers.co.kr/learn/courses/30/lessons/42577)|Programmers|Level2|Hash||
 |[**위장**](https://programmers.co.kr/learn/courses/30/lessons/42578)|Programmers|Level2|Hash||
+|[**메뉴 리뉴얼**](https://programmers.co.kr/learn/courses/30/lessons/72411)|Programmers|Level2|Hash||
 |[**베스트 앨범**](https://programmers.co.kr/learn/courses/30/lessons/42579)|Programmers|Level3|Hash||
 |[**더 맵게**](https://programmers.co.kr/learn/courses/30/lessons/42626)|Programmers|Level2|Heap|Python, C++|
 |[**디스크 컨트롤러**](https://programmers.co.kr/learn/courses/30/lessons/42627)|Programmers|Level3|heap||
@@ -48,6 +51,7 @@ This is a solution repository for Algorithms problem
 |[**K번째수**](https://programmers.co.kr/learn/courses/30/lessons/42748)|Programmers|Level1|Sorting||
 |[**H-Index**](https://programmers.co.kr/learn/courses/30/lessons/42747#)|Programmers|Level2|Sorting|Python, C++|
 |[**가장 큰 수**](https://programmers.co.kr/learn/courses/30/lessons/42746)|Programmers|Level2|Sorting||
+|[**신규 아이디 추천**](https://programmers.co.kr/learn/courses/30/lessons/72410)|Programmers|Level1|String|Python|
 |[**무지의 먹방 라이브**](https://programmers.co.kr/learn/courses/30/lessons/42891#)|Programmers|Level4|Sorting,Hash||
 |[**크레인 인형뽑기 게임**](https://programmers.co.kr/learn/courses/30/lessons/64061)|Programmers|Level1|Stack/Queue||
 |[**주식가격**](https://programmers.co.kr/learn/courses/30/lessons/42584#)|Programmers|Level2|Stack/Queue||
