@@ -5,6 +5,7 @@ This is a solution repository for Algorithms problem
 |Problem|Website|Difficulty|Type|Remarks|
 |---|---|---|---|---|
 |[**Lights out**](https://www.hackerrank.com/challenges/lightsout/problem)|Hackerrank|Easy|AI/games|42.71 point|
+|[**N Puzzle**](https://www.hackerrank.com/challenges/n-puzzle/submissions/game/215424979)|Hackerrank|Hard|A* Algorithm|54 point|
 |[**Extra Long Factorials**](https://www.hackerrank.com/challenges/extra-long-factorials/problem)|Hackerrank|Medium|BigInteger||
 |[**Roads and Libraries**](https://www.hackerrank.com/challenges/torque-and-development/problem)|Hackerrank|Medium|DFS||
 |[**Fibonachi Modified**](https://www.hackerrank.com/challenges/fibonacci-modified/problem)|Hackerrank|Medium|DP||
@@ -22,6 +23,7 @@ This is a solution repository for Algorithms problem
 |[**타겟 넘버**](https://programmers.co.kr/learn/courses/30/lessons/43165)|Programmers|Level2|DFS/BFS||
 |[**네트워크**](https://programmers.co.kr/learn/courses/30/lessons/43162)|Programmers|Level3|DFS/BFS||
 |[**단어 변환**](https://programmers.co.kr/learn/courses/30/lessons/43163)|Programmers|Level3|DFS/BFS||
+|[**여행경로**](https://programmers.co.kr/learn/courses/30/lessons/43164?language=python3#)|Programmers|Level3|DFS/BFS||
 |[**N으로 표현**](https://programmers.co.kr/learn/courses/30/lessons/42895)|Programmers|Level3|DP|Python, C++|
 |[**정수 삼각형**](https://programmers.co.kr/learn/courses/30/lessons/43105)|Programmers|Level3|DP||
 |[**등굣길**](https://programmers.co.kr/learn/courses/30/lessons/42898#)|Programmers|Level3|DP|Python, C++|
@@ -31,8 +33,9 @@ This is a solution repository for Algorithms problem
 |[**모의고사**](https://programmers.co.kr/learn/courses/30/lessons/42840)|Programmers|Level1|Exhaustive Search||
 |[**소수 찾기**](https://programmers.co.kr/learn/courses/30/lessons/42839)|Programmers|Level2|Exhaustive Search||
 |[**카펫**](https://programmers.co.kr/learn/courses/30/lessons/42842)|Programmers|Level2|Exhaustive Search||
-|[**가장 먼 노드**](https://programmers.co.kr/learn/courses/30/lessons/49189)|Programmers|Level3|Graph, DFS/BFS||
 |[**합승 택시 요금**](https://programmers.co.kr/learn/courses/30/lessons/72413)|Programmers|Level3|Graph||
+|[**자물쇠와 열쇠**](https://programmers.co.kr/learn/courses/30/lessons/60059#)|Programmers|Level3|Graph||
+|[**가장 먼 노드**](https://programmers.co.kr/learn/courses/30/lessons/49189)|Programmers|Level3|Graph, DFS/BFS||
 |[**순위**](https://programmers.co.kr/learn/courses/30/lessons/49191#qna)|Programmers|Level3|Graph, DP||
 |[**방의 개수**](https://programmers.co.kr/learn/courses/30/lessons/49190#)|Programmers|Level5|Graph, Hash||
 |[**체육복**](https://programmers.co.kr/learn/courses/30/lessons/42862#)|Programmers|Level1|Greedy|Python, C++|
@@ -59,4 +62,5 @@ This is a solution repository for Algorithms problem
 |[**다리를 지나는 트럭**](https://programmers.co.kr/learn/courses/30/lessons/42583)|Programmers|Level2|Stack/Queue||
 |[**기능개발**](https://programmers.co.kr/learn/courses/30/lessons/42586)|Programmers|Level2|Stack/Queue|Python, C++|
 |[**프린터**](https://programmers.co.kr/learn/courses/30/lessons/42587#)|Programmers|Level2|Stack/Queue||
+|[**셔틀버스**](https://programmers.co.kr/learn/courses/30/lessons/17678)|Programmers|Level3|Stack/Queue?||
 |[****]()|||||
