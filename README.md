@@ -46,10 +46,10 @@ This is a solution repository for Algorithms problem
 |[**섬 연결하기**](https://programmers.co.kr/learn/courses/30/lessons/42861)|Programmers|Level3|Greedy||
 |[**단속 카메라**](https://programmers.co.kr/learn/courses/30/lessons/42884)|Programmers|Level3|Greedy||
 |[**완주하지 못한 선수**](https://programmers.co.kr/learn/courses/30/lessons/42576)|Programmers|Level1|Hash|Python, C++|
-|[**전화번호 목록**](https://programmers.co.kr/learn/courses/30/lessons/42577)|Programmers|Level2|Hash||
-|[**위장**](https://programmers.co.kr/learn/courses/30/lessons/42578)|Programmers|Level2|Hash||
+|[**전화번호 목록**](https://programmers.co.kr/learn/courses/30/lessons/42577)|Programmers|Level2|Hash|Python, C++|
+|[**위장**](https://programmers.co.kr/learn/courses/30/lessons/42578)|Programmers|Level2|Hash|Python, C++|
 |[**메뉴 리뉴얼**](https://programmers.co.kr/learn/courses/30/lessons/72411)|Programmers|Level2|Hash||
-|[**베스트 앨범**](https://programmers.co.kr/learn/courses/30/lessons/42579)|Programmers|Level3|Hash||
+|[**베스트 앨범**](https://programmers.co.kr/learn/courses/30/lessons/42579)|Programmers|Level3|Hash|Python, C++|
 |[**더 맵게**](https://programmers.co.kr/learn/courses/30/lessons/42626)|Programmers|Level2|Heap|Python, C++|
 |[**디스크 컨트롤러**](https://programmers.co.kr/learn/courses/30/lessons/42627)|Programmers|Level3|heap||
 |[**이중우선순위 큐**](https://programmers.co.kr/learn/courses/30/lessons/42628)|Programmers|Level3|heap||
