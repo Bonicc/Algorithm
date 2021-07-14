@@ -59,9 +59,9 @@ This is a solution repository for Algorithms problem
 |[**신규 아이디 추천**](https://programmers.co.kr/learn/courses/30/lessons/72410)|Programmers|Level1|String|Python|
 |[**무지의 먹방 라이브**](https://programmers.co.kr/learn/courses/30/lessons/42891#)|Programmers|Level4|Sorting,Hash||
 |[**크레인 인형뽑기 게임**](https://programmers.co.kr/learn/courses/30/lessons/64061)|Programmers|Level1|Stack/Queue||
-|[**주식가격**](https://programmers.co.kr/learn/courses/30/lessons/42584#)|Programmers|Level2|Stack/Queue||
-|[**다리를 지나는 트럭**](https://programmers.co.kr/learn/courses/30/lessons/42583)|Programmers|Level2|Stack/Queue||
+|[**주식가격**](https://programmers.co.kr/learn/courses/30/lessons/42584#)|Programmers|Level2|Stack/Queue|Python, C++|
+|[**다리를 지나는 트럭**](https://programmers.co.kr/learn/courses/30/lessons/42583)|Programmers|Level2|Stack/Queue|Python, C++|
 |[**기능개발**](https://programmers.co.kr/learn/courses/30/lessons/42586)|Programmers|Level2|Stack/Queue|Python, C++|
-|[**프린터**](https://programmers.co.kr/learn/courses/30/lessons/42587#)|Programmers|Level2|Stack/Queue||
+|[**프린터**](https://programmers.co.kr/learn/courses/30/lessons/42587#)|Programmers|Level2|Stack/Queue|Python, C++|
 |[**셔틀버스**](https://programmers.co.kr/learn/courses/30/lessons/17678)|Programmers|Level3|Stack/Queue?||
 |[****]()|||||
