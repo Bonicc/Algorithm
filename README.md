@@ -51,8 +51,8 @@ This is a solution repository for Algorithms problem
 |[**메뉴 리뉴얼**](https://programmers.co.kr/learn/courses/30/lessons/72411)|Programmers|Level2|Hash||
 |[**베스트 앨범**](https://programmers.co.kr/learn/courses/30/lessons/42579)|Programmers|Level3|Hash|Python, C++|
 |[**더 맵게**](https://programmers.co.kr/learn/courses/30/lessons/42626)|Programmers|Level2|Heap|Python, C++|
-|[**디스크 컨트롤러**](https://programmers.co.kr/learn/courses/30/lessons/42627)|Programmers|Level3|heap||
-|[**이중우선순위 큐**](https://programmers.co.kr/learn/courses/30/lessons/42628)|Programmers|Level3|heap||
+|[**디스크 컨트롤러**](https://programmers.co.kr/learn/courses/30/lessons/42627)|Programmers|Level3|Heap|Python, C++|
+|[**이중우선순위 큐**](https://programmers.co.kr/learn/courses/30/lessons/42628)|Programmers|Level3|Heap||
 |[**K번째수**](https://programmers.co.kr/learn/courses/30/lessons/42748)|Programmers|Level1|Sorting||
 |[**H-Index**](https://programmers.co.kr/learn/courses/30/lessons/42747#)|Programmers|Level2|Sorting|Python, C++|
 |[**가장 큰 수**](https://programmers.co.kr/learn/courses/30/lessons/42746)|Programmers|Level2|Sorting||
