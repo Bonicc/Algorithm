@@ -5,7 +5,7 @@ This is a solution repository for Algorithms problem
 |Problem|Website|Difficulty|Type|Remarks|
 |---|---|---|---|---|
 |[**Lights out**](https://www.hackerrank.com/challenges/lightsout/problem)|Hackerrank|Easy|AI/games|42.71 point|
-|[**N Puzzle**](https://www.hackerrank.com/challenges/n-puzzle/submissions/game/215424979)|Hackerrank|Hard|A* Algorithm|54 point|
+|[**N Puzzle**](https://www.hackerrank.com/challenges/n-puzzle/submissions/game/215424979)|Hackerrank|Hard|A* Algorithm|54 point(Python, C++)|
 |[**Extra Long Factorials**](https://www.hackerrank.com/challenges/extra-long-factorials/problem)|Hackerrank|Medium|BigInteger||
 |[**Roads and Libraries**](https://www.hackerrank.com/challenges/torque-and-development/problem)|Hackerrank|Medium|DFS||
 |[**Fibonachi Modified**](https://www.hackerrank.com/challenges/fibonacci-modified/problem)|Hackerrank|Medium|DP||
